@@ -9,13 +9,13 @@
 ## Networks and Cloud Infrastructure
 - [Computer Networks: A Systems Approach](https://book.systemsapproach.org/).
   L. Peterson and B. Davie. 2019.
-- [Security in Computing, Chapter 6](https://www.pearson.com/us/higher-education/program/Pfleeger-Security-in-Computing-5th-Edition/PGM25284.html).
+- [Security in Computing](https://www.pearson.com/us/higher-education/program/Pfleeger-Security-in-Computing-5th-Edition/PGM25284.html), Chapter 6.
   C. Pfleeger, S. Pfleeger, and J. Margulies. Pearson. 2015.
 - [The Seven Sins: Security Smells in Infrastructure as Code Scripts](https://akondrahman.github.io/papers/icse19_slic.pdf).
   A. Rahman, C. Parnin, and L. Williams. ICSE '19.
 
 ## Open-source
-- [Building Secure Software, Chapter 4](https://www.amazon.com/Building-Secure-Software-Addison-wesley-Professional/dp/0321774957).
+- [Building Secure Software](https://www.amazon.com/Building-Secure-Software-Addison-wesley-Professional/dp/0321774957), Chapter 4.
   Addison-Westley. J. Viega and G. McGraw. 2001.
 
 ## Program Analysis
