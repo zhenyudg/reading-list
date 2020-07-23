@@ -17,6 +17,8 @@
 ## Open-source
 - [Building Secure Software](https://www.amazon.com/Building-Secure-Software-Addison-wesley-Professional/dp/0321774957), Chapter 4.
   Addison-Westley. J. Viega and G. McGraw. 2001.
+- [How Bad Can it Git? Characterizing Secret Leakage in Public GitHub Repositories](https://pdfs.semanticscholar.org/e43b/9221f62b9075357dc53ec3d1edf4d856a38c.pdf).
+  M. Meli, M. R. McNiece, and B. Reaves. NDSS '19.
 
 ## Program Analysis
 - [Introduction to Static Analysis](https://mitpress.mit.edu/books/introduction-static-analysis).
