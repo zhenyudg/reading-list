@@ -19,6 +19,8 @@
   Addison-Westley. J. Viega and G. McGraw. 2001.
 - [How Bad Can it Git? Characterizing Secret Leakage in Public GitHub Repositories](https://pdfs.semanticscholar.org/e43b/9221f62b9075357dc53ec3d1edf4d856a38c.pdf).
   M. Meli, M. R. McNiece, and B. Reaves. NDSS '19.
+- [A Large-Scale Empirical Study of Security Patches](https://dl.acm.org/doi/abs/10.1145/3133956.3134072).
+  F. Li, V. Paxson. CCS '17.
 
 ## Program Analysis
 - [Introduction to Static Analysis](https://mitpress.mit.edu/books/introduction-static-analysis).
