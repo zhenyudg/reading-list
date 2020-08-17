@@ -27,6 +27,8 @@
   X. Rival and K. Yi. MIT Press. 2020.
 - [Secure Programming with Static Analysis.](https://www.amazon.com/Secure-Programming-Static-Analysis-Brian/dp/0321424778).
   B. Chess and J. West. Addison-Westley. 2008.
+- [Practical Malware Analysis](https://nostarch.com/malware)
+  M. Sikorski and A. Honig. No Starch Press. 2012.
 - [Eliminating Timing Side-Channel Leaks using Program Repair](https://meng-wu.github.io/file/WuGSW18.pdf).
   M. Wu, S. Guo, P. Schaumont, and C. Wang. ISSTA '18.
 - [FUDGE: Fuzz Driver Generation at Scale](https://research.google/pubs/pub48314/).
